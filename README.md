@@ -1,7 +1,7 @@
 ### README
 
 This is a Fitness App which provides users with workout plans, help them to track their diet with active life style.
-This project was created by Codaisseur students in week 9 to experience working on a Real World Project.
+This project was created for mobile app of [IMP Trainer](https://imptrainer.com/) by Codaisseur students in week 9 to experience working on a Real World Project.
 
 ## Table of contents:
 
